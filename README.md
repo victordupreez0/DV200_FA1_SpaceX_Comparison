@@ -229,6 +229,12 @@ Unit Tests were conducted to establish working functionality. Here are all the t
 
 ## Final Outcome
 
+### Mockups
+
+<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/cbca480f-7af9-4e7c-97c9-5d4b01bd2aaa" />
+
+<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/f1234702-6852-4472-96ef-1d8f21b829f2" />
+
 ### Video Demonstration
 
 To see a run through of the application, click below:
