@@ -111,10 +111,6 @@ Open your browser and navigate to: `http://localhost:3000`
 
 ### Home Page
 
-<div align="center">
-  <img src="path/to/home-page-screenshot.png" alt="Home Page" width="70%" />
-</div>
-
 * **API Dataset Showcase** - Browse comprehensive SpaceX launch data
 * **Recent Launches** - View the most recent SpaceX missions
 * **Search Functionality** - Find specific launches using advanced search
@@ -122,19 +118,11 @@ Open your browser and navigate to: `http://localhost:3000`
 
 ### Compare Page
 
-<div align="center">
-  <img src="path/to/compare-page-screenshot.png" alt="Compare Page" width="70%" />
-</div>
-
 * **Payload Theoretical Data** - Compare payload capacity and theoretical specifications
 * **Payload Orbital Data** - Analyze orbital parameters across different missions
 * **Rocket Data Comparison** - Side-by-side rocket specification analysis
 
 ### Timeline Page
-
-<div align="center">
-  <img src="path/to/timeline-page-screenshot.png" alt="Timeline Page" width="70%" />
-</div>
 
 * **Launches Over Time** - Visualize launch frequency trends
 * **Payloads Launched** - Track payload deployment history
