@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 5000;
 app.use(express.static(path.join(__dirname, "build")));
 
 // Catch-all handler: send back React's index.html for any request not handled
-app.get("*", (req, res) => {
+app.use((req, res) => {
   res.sendFile(path.join(__dirname, "build", "index.html"));
 });
 
